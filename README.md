@@ -25,7 +25,7 @@ To run this project locally, ensure you have Flutter installed on your machine.
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/harsh136/fokus-app.git](https://github.com/harsh136/fokus-app.git)
+git clone https://github.com/harsh136/fokus-app.git
 
 cd fokus-app
 ```
